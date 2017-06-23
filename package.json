@@ -1,5 +1,5 @@
 {
-  "name": "babili-webpack-plugin",
+  "name": "@anilanar/babili-webpack-plugin",
   "version": "0.1.1",
   "description": "Babili Plugin for Webpack",
   "main": "lib/index.js",
@@ -20,8 +20,8 @@
     "babili",
     "minify"
   ],
-  "repository": "https://github.com/webpack-contrib/babili-webpack-plugin",
-  "author": "boopathi",
+  "repository": "https://github.com/anilanar/babili-webpack-plugin",
+  "author": "anilanar",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.24.1",
